@@ -7,7 +7,7 @@ title: Bilder
 
 Bilder brauchen einen Alternativtext, der sagt, was das Bild zeigt und wozu es da ist. Grafiken mit vielen Informationen brauchen zusätzlich eine ausführliche Beschreibung.
 
-::image[Eine Braillezeile am Arbeitsplatz.]{#r21dhdz8 src=braille-workplace.jpg alt="Eine Frau mit Kopfhörern um den Hals hält ein Smartphone ans Ohr. Vor ihr stehen ein Bildschirm, eine Tastatur und eine Braillezeile."}
+::image[Eine Braillezeile am Arbeitsplatz.]{#r21dhdz8 src=braille-workplace.jpg alt="Eine Frau sitzt an einem Tisch vor ihrem Laptop und liest mit den Fingern auf einer Braillezeile."}
 
 :::image[Barrieren können physisch, sozial und kommunikativ sein.]{#nvgho6oe src=barrier-types.svg alt="Drei Sechsecke mit den Beschriftungen Physisch, Sozial und Kommunikativ"}
 

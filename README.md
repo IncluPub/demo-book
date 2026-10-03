@@ -36,3 +36,7 @@ With narration, the voice needs a personal access token with access to `inclupub
 ```sh
 docker run --rm -v "$PWD:/builds" -e INCLUPUB_VOICE_TOKEN images.tollwerk.net/inclupub/compiler inclupub build . --output demo-book.epub --narrate
 ```
+
+## License
+
+The demo book is licensed under CC BY 4.0, except two photos that keep their own free licenses. See [LICENSE.md](LICENSE.md).
