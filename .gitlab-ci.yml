@@ -1,0 +1,5 @@
+include:
+  - component: code.tollwerk.net/inclupub/compiler/course@v0.9.0
+    inputs:
+      version: 0.9.0
+      narrate: true

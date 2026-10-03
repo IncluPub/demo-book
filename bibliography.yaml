@@ -1,0 +1,52 @@
+references:
+  - id: mueller-2024
+    type: book
+    author:
+      - family: Müller
+        given: Anna
+    title: Barrierefreie Dokumente
+    edition: 2
+    publisher: Beispielverlag
+    publisher-place: Berlin
+    issued:
+      date-parts:
+        - [2024]
+  - id: schaefer-2025
+    type: chapter
+    author:
+      - family: Schäfer
+        given: Anna-Lena
+    editor:
+      - family: Berg
+        given: Jonas
+        non-dropping-particle: van den
+    title: Screenreader im Arbeitsalltag
+    container-title: Handbuch barrierefreies Publizieren
+    page: 45–61
+    publisher: Beispielverlag
+    publisher-place: Berlin
+    issued:
+      date-parts:
+        - [2025]
+  - id: wcag-22
+    type: webpage
+    author:
+      - literal: World Wide Web Consortium
+    title: Web Content Accessibility Guidelines (WCAG) 2.2
+    issued:
+      date-parts:
+        - [2023, 10, 5]
+    accessed:
+      date-parts:
+        - [2026, 9, 1]
+    URL: https://www.w3.org/TR/WCAG22/
+  - id: daisy-2024
+    type: report
+    author:
+      - literal: DAISY Consortium
+    title: Ace by DAISY
+    genre: Software-Dokumentation
+    issued:
+      date-parts:
+        - [2024]
+    URL: https://daisy.github.io/ace/

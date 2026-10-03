@@ -1,0 +1,35 @@
+format: https://inclu.pub/source/0.1
+id: f93680d7-4b55-485f-a718-80fbc78f674d
+title: "Demobuch: Barrierefreie E-Books"
+subtitle: Ein Demobuch für das Buchprofil von IncluPub
+language: de
+description: Demobuch zum Erproben des Buchprofils, mit Inhalten aus dem Beispielbuch „Barrierefreie E-Books“.
+version: 1.0.0
+license: https://creativecommons.org/licenses/by/4.0/
+authors:
+  - tollwerk Academy
+publisher: tollwerk GmbH
+cover:
+  src: braille-display.jpg
+  alt: Hände auf einer Braillezeile vor einer Computertastatur
+isbn: 978-3-9827431-2-7
+edition: 1. Auflage
+subjects:
+  - Barrierefreiheit
+  - E-Books
+  - Elektronisches Publizieren
+accessibility:
+  summary: Alle Inhalte sind als Text zugänglich. Bilder haben Alternativtexte, Grafiken ausführliche Beschreibungen, Videos Untertitel und Transkripte, Audio Transkripte. Ein Abschnitt steht zusätzlich als Video, als Audio und in Leichter Sprache zur Verfügung.
+series:
+  name: Beispielreihe der tollwerk Academy
+  position: 2
+  issn: 2049-3630
+notes: endnotes
+citationStyle: din-iso-690
+front:
+  - foreword
+parts:
+  - basics
+  - practice
+back:
+  - checklist
