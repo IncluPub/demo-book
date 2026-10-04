@@ -39,7 +39,7 @@ docker run --rm -v "$PWD:/builds" -e INCLUPUB_VOICE_TOKEN images.tollwerk.net/in
 
 ## Mirror at GitHub
 
-This repository is mirrored to [inclupub/demo-book at GitHub](https://github.com/inclupub/demo-book), where the workflow for GitHub Actions in `.github/workflows/inclupub.yml` builds, narrates, checks and publishes the book as well; GitLab ignores that file. Every push builds on both sides, and a tag `v*` publishes the package in the package registry here and as a release at GitHub. The workflow was written by `inclupub github-workflow` of compiler 0.11.0, with narration switched on; an update of the compiler writes it again.
+This repository is mirrored to [inclupub/demo-book at GitHub](https://github.com/inclupub/demo-book), where the workflow for GitHub Actions in `.github/workflows/inclupub.yml` builds, narrates, checks and publishes the book as well; GitLab ignores that file. Every push builds on both sides, and a tag `v*` publishes the package in the package registry here and as a release at GitHub. The workflow was written by `inclupub github-workflow` of compiler 0.12.0, with narration switched on; an update of the compiler writes it again.
 
 The mirror is a push mirror of this project (**Settings**, **Repository**, **Mirroring repositories**) with a fine-grained token at GitHub that may write the contents and the workflows of that one repository. How the organization, the environment `inclupub`, the secrets and the token are set up is described in the [guide for GitHub of the compiler](https://code.tollwerk.net/inclupub/compiler/-/blob/main/docs/github.md), sections 2 to 5 and 9. Renew the token before it expires; an expired token stops the mirror silently.
 
