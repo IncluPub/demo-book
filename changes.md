@@ -1,3 +1,10 @@
+## 1.3.0 (2026-10-11)
+
+### Geändert
+
+- Die Metadaten eines Kapitels nennen die Rolle der Person, die es verfasst hat.
+- Das Buch wird mit dem Compiler 0.13.0 gebaut.
+
 ## 1.2.0 (2026-10-04)
 
 ### Neu
