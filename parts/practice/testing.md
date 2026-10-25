@@ -37,9 +37,9 @@ Erst sichern die Werkzeuge, dass das E-Book technisch gültig ist, dann prüfen 
 
 :::
 
-:::question[Übung: Werkzeuge]{#p86sn938 interaction=text-entry}
+:::question[Übung: Werkzeuge]{#p86sn938 interaction=gap-choice}
 
-Die Barrierefreiheit eines E-Books prüft das Werkzeug :gap[Ace]{#mpzr5161} by DAISY.
+Die Barrierefreiheit eines E-Books prüft das Werkzeug :gap[Axe|=Ace|Wave]{#mpzr5161} by DAISY.
 
 :::
 

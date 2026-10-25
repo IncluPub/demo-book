@@ -1,3 +1,13 @@
+## 1.4.0 (2026-10-25)
+
+### Geändert
+
+- Die Übung „Werkzeuge“ bietet für die Lücke drei Namen zur Auswahl, statt die Antwort eintippen zu lassen.
+- Das Zitat aus den WCAG 2.2 nennt die Richtlinien im Literaturverzeichnis als seine Quelle und ist als Englisch ausgezeichnet.
+- Englische Titel und Namen sind als Englisch ausgezeichnet, damit die Sprachausgabe sie richtig ausspricht.
+- Hinweise und Beispiele sind keine eigenen Bereiche der Seite mehr, ihre Beschriftung ist eine Überschrift, und ein Beispiel nennt vor seinem Titel „Beispiel:“.
+- Das Buch wird mit dem Compiler 0.14.0 gebaut.
+
 ## 1.3.0 (2026-10-11)
 
 ### Geändert

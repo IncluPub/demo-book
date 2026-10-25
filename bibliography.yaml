@@ -31,8 +31,8 @@ references:
   - id: wcag-22
     type: webpage
     author:
-      - literal: World Wide Web Consortium
-    title: Web Content Accessibility Guidelines (WCAG) 2.2
+      - literal: :lang[World Wide Web Consortium]{lang=en}
+    title: :lang[Web Content Accessibility Guidelines (WCAG) 2.2]{lang=en}
     issued:
       date-parts:
         - [2023, 10, 5]

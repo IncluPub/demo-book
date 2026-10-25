@@ -32,13 +32,17 @@ Ein E-Book ist barrierefrei, wenn alle Menschen es lesen können, auch mit Hilfs
 
 ## Sprache
 
-Die Sprache eines E-Books ist angegeben, damit die Sprachausgabe die Wörter richtig ausspricht. Für Begriffe wie „WCAG“ hilft ein Aussprachewörterbuch.
+Die Sprache eines E-Books ist angegeben, damit die Sprachausgabe die Wörter richtig ausspricht. Für Begriffe wie „WCAG“ hilft ein Aussprachewörterbuch. Passagen in einer anderen Sprache sind mit ihrer Sprache ausgezeichnet, wie das folgende Zitat auf Englisch.
 
-:::quote[:cite{ref=bibliography.yaml#wcag-22}]{#pmlusiuj}
+::::quote{#pmlusiuj work=bibliography.yaml#wcag-22}
+
+:::lang{lang=en}
 
 Web Content Accessibility Guidelines (WCAG) 2.2 covers a wide range of recommendations for making web content more accessible.
 
 :::
+
+::::
 
 :::question[Übung: Überschriften]{#f5bvnaub interaction=single-choice}
 
